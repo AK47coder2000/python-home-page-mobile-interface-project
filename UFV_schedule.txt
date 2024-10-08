@@ -1,0 +1,3 @@
+COMP-150,Tuesday,3-7pm 
+COMP-155,Friday ,9AM-12pm 
+COMP-125,Monday,1-3pm
